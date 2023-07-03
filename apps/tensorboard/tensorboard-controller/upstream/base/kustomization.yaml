@@ -12,5 +12,5 @@ patchesStrategicMerge:
 - patches/add_controller_config.yaml
 images:
 - name: docker.io/kubeflownotebookswg/tensorboard-controller
-  newName: docker.io/kubeflownotebookswg/tensorboard-controller
-  newTag: v1.7.0-rc.0
+  newName: docker.io/vinaychandran/tensorboard-controller
+  newTag: v1.7.0
